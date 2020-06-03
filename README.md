@@ -1,2 +1,2 @@
 # Multi-Armed-Bandits
-I recentely reviewed the "Reinforcement Learning  An Introduction" by Richard Sutton and Andrew Barto. In chapter 2, Multi-Armed Bandit, he mentioned couple of major theories that balance the exploration-exploitation dilemma. I plotted calculate and plotted the in this repository. 
+The second chapter of the book"Reinforcement Learning  An Introduction" by Richard Sutton and Andrew Bart, multiple exploration-explitation dilemma. Three major theories which balance the exploration-exploitation dilemma in the reinforcement Learning and mentioned in the book are calculated and plotted in this repository.
